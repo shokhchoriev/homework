@@ -1,2 +1,2 @@
 # homework
-uy ishiularni tekshirish va run qilish
+uy ishilarni tekshirish va run qilish
